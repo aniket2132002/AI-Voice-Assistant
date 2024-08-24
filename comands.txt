@@ -1,0 +1,61 @@
+#wakeup jarvis
+go to sleep
+hello
+i am fine
+how are you
+thank
+
+#set alarm
+set alarm
+
+#playng fev song
+tired
+
+google-
+
+Youtube search___
+#Youtube controls-
+play
+pause
+mute
+volume up
+volume down
+
+#open and close app websites
+dictapp = {"commandprompt":"cmd","paint":"paint","word":"winword","excel":"excel","chrome":"chrome","vscode":"code","powerpoint":"powerpnt"}
+open
+close
+All tabs closed
+
+#youtube search___
+
+#google
+#google search
+
+Wikipedia
+wikipedia
+
+#temperature
+temperature
+
+#set alarm
+set alarm
+
+#time
+"the time"
+
+ #close the program
+" finally sleep"
+
+#Remember function-
+remember that
+what do you remember
+
+#shutdown the system
+shutdown the system
+yes
+no
+
+#change password
+"change password"
+Enter the new password
